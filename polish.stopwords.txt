@@ -15,7 +15,6 @@ bardziej
 bardzo
 beda
 bedzie
-bez
 deda
 będą
 bede
@@ -81,7 +80,6 @@ gdzie
 gdziekolwiek
 gdzies
 gdzieś
-go
 i
 ich
 ile
@@ -254,7 +252,6 @@ przy
 roku
 rowniez
 również
-sam
 sama
 są
 sie
